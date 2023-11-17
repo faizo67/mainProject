@@ -5,6 +5,56 @@
     overflow-x: hidden;
     font-family: 'Inter', sans-serif;
 }
+/* Search Bar */
+.aa{
+    border: 1px solid black;
+    border-radius: 50px;
+    /* height: 4rem; */
+    background-color:rgb(245, 244, 242);
+    display: flex;
+    margin-left: 13rem;
+    overflow: hidden;
+    width: 55rem;
+}
+.bb{
+    float: left;
+	width: 450px;
+    border-right: 2px solid rgba(58, 54, 54, 0.8);
+	margin: 1em;
+    margin-left: 2.5rem;
+    padding: 0.1rem 0.7rem;
+    overflow: hidden;
+	/* padding-left: 50px; */
+}
+.cc{
+    float: left;
+    overflow: hidden;
+	width: 450px;
+    margin-left: 3rem;
+    margin: 1em;
+    padding: 0.1rem 0.7rem;
+    /* padding-left: 50px; */
+}
+.cc .search{
+    margin-left: 17rem;
+    position: absolute;
+    top: 5.5rem;
+    overflow: hidden;
+}
+.dd{
+    padding: 1rem;
+    padding-left: 750px;
+    margin-top: 5px;
+}
+.location{
+    /* padding: 3rem; */
+}
+.dd select{
+    border-radius: 50px;
+}
+
+
+
 .search-bar{
     width: 100%;
     max-width: 760px;
