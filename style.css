@@ -150,14 +150,16 @@
     border-radius: 12px;
 }
 .intro{
-    height: 200px;
-    width: 350px;
-    padding: 6px;
+    /* height: 200px;
+    width: 350px; */
+    /* 
     box-sizing: border-box;
-    position: absolute;
     overflow: hidden;
-    bottom: -200px;
-    color: rgb(255, 255, 255);
+     */
+    position: absolute;
+    top: 22rem;
+    padding: 9px;
+    color: rgb(255, 253, 253);
 }
 .card_img{
     object-fit: cover;
